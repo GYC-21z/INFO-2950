@@ -1,0 +1,19 @@
+Preregistration
+
+My variables will include:
+Dependent variable: Percentage of women author participation in journals by year for each country
+Possible factor: GDP of countries, summarized by year
+Possible factor: Government expenditure
+Possible factor: Educational Attainment of women
+Possible factor: Gender gap in average wages
+
+1. Single-variable Linear Regression
+I will generate a single-variable regression for factors regarding gender equality and economic status (GDP, government expenditure on education, educational attainment of women, and gender wage gap) that affect women author participation in journals (2010 - 2016). Single-variable Linear Regression will examine how strong the relationship is between those factors and the percentage of women journals.
+
+I will compute and display the correlation coefficient and R-squared (determinant coefficient) for each linear regression to determine the association between these variables and the proportion of women's journals. I also do hypothesis testing and calculate the P-values to ensure their significance. I was able to decide what factors to add next using single-variable linear regressions, particularly multivariable linear regressions. I will exclude the variables with the greatest correlation and r-squared values to guarantee accurate multivariable linear regression.
+
+
+2. Multivariable Linear Regression
+
+I will also introduce Multivariable Linear Regression since I have multiple variables. Multiple linear regression estimates the relationship between two or more independent variables and one dependent variable. Multivariable Linear Regression can show my database's overall effect and complexity. Besides, I will omit the variables with the most significant correlation and R-squared values for the predictive variables that are strongly linked and perhaps causally related to one another. To determine whether our multivariate regression is reliable, I will compute the correlation coefficient and R-squared fraction once I have a multivariate regression model. I will also compute the P-value to evaluate the significance of the multivariate regression and conduct hypothesis testing. 
+To better understand the data and forecast the link between variables, I may compare the r squared of univariate and multivariate regressions to determine which one has a more significant coefficient of determination.
